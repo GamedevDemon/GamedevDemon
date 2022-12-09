@@ -1,4 +1,4 @@
-- 👋 Hi, I’m GamedevDemon aka Ishant Bhaskar
+- 👋 Hi, I’m GamedevDemon
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Unity3D
 - 📫 You can reach me through Discord and Gmail
